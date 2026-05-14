@@ -1,0 +1,26 @@
+{
+  "banner": {
+    "message": "Please arrive 20 minutes before kick-off. Parking is limited.",
+    "severity": "warning"
+  },
+  "fixtures": [
+    {
+      "time": "10:00",
+      "pitch": "Pitch 1",
+      "ageGroup": "U11 Girls",
+      "home": "Rovers",
+      "away": "Celtic",
+      "status": "Scheduled",
+      "notes": "Arrive 20 minutes early"
+    },
+    {
+      "time": "10:30",
+      "pitch": "Pitch 2",
+      "ageGroup": "U11 Girls",
+      "home": "United",
+      "away": "Town",
+      "status": "Delayed",
+      "notes": "Delayed by 10 minutes"
+    }
+  ]
+}
